@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Elemento Slate
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Elemento Slate
+MetacityTheme=Elemento Slate
+IconTheme=Luna-Light
+CursorTheme=Luna
+CursorSize=24
